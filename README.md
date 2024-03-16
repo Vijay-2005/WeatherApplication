@@ -6,11 +6,9 @@
 
 #### Web link 
 
- https://sachinprajapati8604.github.io/Weather_webApp/
+ https://vijay-2005.github.io/WeatherApplication/
  
- #### netlify link
- 
- https://spweather.netlify.app/
+
  
 ### Features of the project.
 
